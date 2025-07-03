@@ -1,0 +1,18 @@
+{
+  "No": "(555) 123-4567",
+  "tel": "5551234567",
+  "mail": "contact@floodreclamation.com",
+  "baseUrl": "https://floodreclamation.com/",
+  "host": "floodreclamation.com",
+  "name": "Flood Reclamation Experts",
+  "address": "8520 Allison Pointe Blvd Ste 245 Indianapolis, IN 46250",
+  "service": "Flood Damage Restoration",
+  "location": "Indianapolis, IN",
+  "zipCode": "46250",
+  "bannerImage": "https://ik.imagekit.io/z6skgnupx/floodreclamation_com/Flood_Damage_Restoration_ContactInfo_bannerImage_-c-qPYGwH.jpg",
+  "logoImage": "https://ik.imagekit.io/h7rza8886p/Flood%20Reclamation%20Experts.png?updatedAt=1751522191282",
+  "googleAnalytics": "",
+  "favicon": "https://ik.imagekit.io/h7rza8886p/Flood%20Reclamation%20Expertsfavicon.ico?updatedAt=1751522208655",
+  "minor": "#a3c069",
+  "main": "#29a8df"
+}
