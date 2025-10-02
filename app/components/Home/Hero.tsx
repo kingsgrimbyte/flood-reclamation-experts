@@ -165,7 +165,7 @@ const Hero = () => {
           <div className="mt-14 md:mt-20"></div>
           {/* CTA */}
           {/* FAQ */}
-           <Faq data={homeData?.faq}/>
+          <Faq data={homeData?.faq}/>
           {/* FAQ */}
           {/* Review */}
           <ReviewWidget />
