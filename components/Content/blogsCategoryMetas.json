@@ -1,15 +1,7 @@
 {
-  "usa": {
-    "title": "Roofing Trends Across the USA | Country Insights ",
-    "description": "Get informed about the country's insights and state-specific roofing trends, materials, and services in the USA. Get insights tailored to your location."
-  },
-  "roof-types": {
-    "title": "Learn About Popular Types of Roofs & It's Uses",
-    "description": "Learn about different roof types like metal, shingle, tile, and flat roofs & it's uses. Find the right style for your home or business."
-  },
-  "roof-materials": {
-    "title": "Find Out The Best Roofing Materials For Your Home",
-    "description": "Compare roofing materials like asphalt, wood, metal, and more. Choose durable, cost-effective options for your next project."
-  },
-  "_error": "Failed to generate valid JSON content"
+  "basement-flood-cleanup": {
+    "title": "Basement Flood Cleanup | Trusted Guides",
+    "description": "Get expert advice on Basement Flood Cleanup to prevent structural damage, mold growth, and costly repairs. Learn quick response tips, professional techniques, and safety measures to restore your home effectively after water intrusion.",
+    "bannerImage": "https://ik.imagekit.io/h7rza8886p/Water_Damage_Restoration_location_bannerImage_j5_NDpSiD.webp?updatedAt=1754291733977"
+  }
 }
